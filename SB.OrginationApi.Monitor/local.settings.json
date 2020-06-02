@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SB_LOGIN_URL": "https://test-consumer.shawbrook.co.uk/OriginationService/api/Account/Login",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "054cd675-4e2c-4aa6-b82c-dea1ab2b4bb1",
+    "TEST_REGION_NAME": "Central India",
+    "KEY_VAULT_NAME": "ai-keyv",
+    "SECRET_NAME": "acsistoken1",
+    "TEST_NAME": "SBQuoteAvailabilityTest",
+    //"ASPNETCORE_HOSTINGSTARTUP__KEYVAULT__CONFIGURATIONVAULT": "https://azkv-sbmonitor-dev-001.vault.azure.net/",
+    "SB_QUOTE_URL": "https://test-consumer.shawbrook.co.uk/OriginationService/api/quotation/quote",
+    "RESPONSE_TIME_SLA_IN_SEC": "5",
+    "ORG_USER_NAME": "testretailer_test_pl_api",
+    "ORG_PWD": "GGD7FxW2*EJ!M8ta",
+    "MAX_MESSAGE_NUMBERS": "10"
+  }
+}
